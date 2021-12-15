@@ -21,3 +21,9 @@ Don't.
 [<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />]
 
 <br />
+<br />
+
+### My Github Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratheek78&theme=radical)
+
