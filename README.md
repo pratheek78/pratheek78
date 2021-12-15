@@ -27,3 +27,4 @@ Don't.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratheek78&theme=radical)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aqj5gw8dl2r8ql1gj65084ohm&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
