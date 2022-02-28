@@ -1,7 +1,7 @@
 ### Hi there! I'm Pratheek 👋
 
 - 🛠️ I'm Currently working on a Discord Bot called [Ezebot](https://discord.com/api/oauth2/authorize?client_id=804613612857327617&permissions=545460846583&scope=bot%20applications.commands)
-- 💾 I'm Also trying to learn JavaScript and C++, but am kinda failing at both 😅
+- 💾 I'm trying to learn JavaScript and TypeScript
 - 🌱 I like to work on projects with my friends
 - ✨ I Love to play the guitar and I'm also trying to get into music production
 - 🎸 I'm ADDCITED to Polyphia
