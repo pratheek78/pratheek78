@@ -1,13 +1,11 @@
 ### Hi there! I'm Pratheek 👋
 
-- 🛠️ I'm Currently working on a Discord Bot called [Ezebot](https://discord.com/api/oauth2/authorize?client_id=804613612857327617&permissions=545460846583&scope=bot%20applications.commands)
-- 💾 I'm trying to learn JavaScript and TypeScript
-- 🌱 I like to work on projects with my friends
-- ✨ I Love to play the guitar and I'm also trying to get into music production
+- 🛠️ I'm Currently preparing for the International Olympiad in Informatics.
+- 🌱 I like to work on projects that help me learn new skills and pique my interest.
+- ✨ I Love to play the guitar.
 - 🎸 I'm ADDCITED to Polyphia
+- 🧪 I'm also trying to read up on research papers related to CS and intend to write review articles on them.
 
-### Contact Me:
-Don't.
 
 <br />
 
