@@ -1,10 +1,9 @@
 ### Hi there! I'm Pratheek 👋
 
-- 🛠️ I'm Currently preparing for the International Olympiad in Informatics.
 - 🌱 I like to work on projects that help me learn new skills and pique my interest.
 - ✨ I Love to play the guitar.
-- 🎸 I'm ADDCITED to Polyphia
-- 🧪 I'm also trying to read up on research papers related to CS and intend to write review articles on them.
+- 🎸 I'm Love Polyphia
+- 🧪 I also like reading research papers on CS.
 
 
 <br />
