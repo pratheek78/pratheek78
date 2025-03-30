@@ -1,8 +1,8 @@
 ### Hi there! I'm Pratheek 👋
 
 - 🌱 I like to work on projects that help me learn new skills and pique my interest.
-- ✨ I Love to play the guitar.
-- 🎸 I'm Love Polyphia
+- ✨ I like playing the guitar.
+- 🎸 I Love [Polyphia](https://www.youtube.com/channel/UCDe08Fs0s0YKJuk5h45csAQ)
 - 🧪 I also like reading research papers on CS.
 
 
